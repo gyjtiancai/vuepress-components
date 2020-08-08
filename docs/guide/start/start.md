@@ -1,3 +1,0 @@
-<ClientOnly>
-  <start-index/>
-</ClientOnly>
