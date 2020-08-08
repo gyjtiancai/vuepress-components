@@ -1,6 +1,7 @@
 module.exports = {
     base:"/vuepress-components/",
     title: '亦云组件使用文档',
+    // dest:'public',
     // description: '亦云自己使用的组件库',
     markdown: {
         // markdown-it-anchor 的选项
