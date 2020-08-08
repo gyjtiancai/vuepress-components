@@ -1,5 +1,5 @@
 module.exports = {
-    base:"/vuepress-components/",
+    base:"./",
     title: '亦云组件使用文档',
     // description: '亦云自己使用的组件库',
     markdown: {
