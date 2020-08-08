@@ -1,0 +1,3 @@
+<ClientOnly>
+  <install-index/>
+</ClientOnly>
